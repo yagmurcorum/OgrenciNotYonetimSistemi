@@ -51,13 +51,21 @@ Projede Windows Forms kullanılmıştır.
   
 ## Nasıl Kullanılır?
 Öğrenci Üret: Girilen sayı kadar rastgele benzersiz öğrenci ID’si oluşturur.
+
 Ara: Girilen ID’ye göre öğrenci bilgilerini getirir.
+
 Kayıt Ekle: Manuel olarak yeni öğrenci ve notları ekler.
+
 Kayıt Güncelle: Seçilen öğrencinin notlarını günceller.
+
 Kayıt Sil: Seçilen öğrenciyi siler.
+
 Rastgele Vize / Final / Ödev: Tablodaki tüm öğrencilere rastgele notlar atar.
+
 Geçme Notu Hesapla: Tüm öğrencilerin geçme notlarını hesaplar ve veritabanına kaydeder.
+
 Ortalama Üstü Öğrenciler: Ortalama geçme notunun üzerinde olan öğrencileri listeler.
+
 Kalan Öğrenciler: Geçme notu 60’ın altında olan öğrencileri gösterir.
 
 ## NOT : Bu proje, eğitim amaçlı geliştirilmiştir ve gerçek dünya uygulamalarında güvenlik, hata kontrolü gibi ek önlemler alınmalıdır.
