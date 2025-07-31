@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ntp300625", "ntp300625\ntp300625.csproj", "{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Debug|ARM64.Build.0 = Debug|ARM64
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Debug|x64.ActiveCfg = Debug|x64
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Debug|x64.Build.0 = Debug|x64
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Release|ARM64.ActiveCfg = Release|ARM64
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Release|ARM64.Build.0 = Release|ARM64
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Release|x64.ActiveCfg = Release|x64
+		{4B6A53ED-C075-407D-A0E9-03A4AD128D6E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68B6B6A7-F6A3-4121-80D7-F71B8E1AE838}
+	EndGlobalSection
+EndGlobal
